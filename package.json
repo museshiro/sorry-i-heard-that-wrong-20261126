@@ -1,0 +1,1 @@
+{"description":"One-line apology from a smart speaker that misheard its owner (make.fun entry).","license":"MIT","main":"main.ts","name":"sorry-i-heard-that-wrong","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
